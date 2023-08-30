@@ -1,0 +1,5 @@
+{{#user}}
+Name: likith c
+Skills: html,css,js,jquery,python,java
+Email: likithlikv009@gmail.com
+{{/user}}
